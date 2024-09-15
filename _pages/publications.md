@@ -6,11 +6,50 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">I have a total of 40+ citations. You can also find my articles on <a href="{{https://scholar.google.com/citations?user=K8OFSxwAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+## Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Framework for Plant Disease Classification Using Deep Bilinear CNNs
+Published in Tech Science Press, 2020
+
+This paper explores a novel framework for classifying plant diseases using deep bilinear CNNs.
+
+[Paper Link](https://www.techscience.com/iasc/v31n1/44287)
+
+---
+
+### Attention-based Neural Architecture for Arrhythmia Detection
+Published in Tech Science Press, 2019
+
+This paper presents an attention-based neural network for improved arrhythmia detection.
+
+[Paper Link](https://www.techscience.com/cmc/v69n2/43850)
+
+---
+
+### PPG Signal Classification Using GRU
+Published in Springer, 2018
+
+This paper focuses on classifying PPG signals using GRU networks.
+
+[Paper Link](https://link.springer.com/chapter/10.1007/978-981-16-3660-8_57)
+
+---
+
+### Predicting CHD Using Deep Learning
+Published in IEEE, 2017
+
+This paper explores using deep learning models to predict coronary heart disease.
+
+[Paper Link](https://doi.org/10.1109/INOCON50539.2020.9298423)
+
+---
+
+### Attention Block Embedded in Standard CNN for Image Classification
+Published in IEEE, 2016
+
+This paper discusses embedding attention blocks into standard CNNs for improved image classification.
+
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/9793110)
