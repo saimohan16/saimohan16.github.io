@@ -46,7 +46,7 @@ This paper explores using deep learning models to predict coronary heart disease
 [Paper Link](https://doi.org/10.1109/INOCON50539.2020.9298423)
 
 ---
-
+  
 ### A Simple Attention Block Embedded in Standard CNN for Image Classification
 Published in IEEE, 2022
 
