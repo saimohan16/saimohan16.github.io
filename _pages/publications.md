@@ -12,7 +12,7 @@ author_profile: true
 ## Publications
 
 ### Framework for Plant Disease Classification Using Deep Bilinear CNNs
-Published in Tech Science Press, 2020
+Published in Tech Science Press, 2021
 
 This paper explores a novel framework for classifying plant diseases using deep bilinear CNNs.
 
@@ -21,7 +21,7 @@ This paper explores a novel framework for classifying plant diseases using deep 
 ---
 
 ### Attention-based Neural Architecture for Arrhythmia Detection
-Published in Tech Science Press, 2019
+Published in Tech Science Press, 2021
 
 This paper presents an attention-based neural network for improved arrhythmia detection.
 
@@ -29,8 +29,8 @@ This paper presents an attention-based neural network for improved arrhythmia de
 
 ---
 
-### PPG Signal Classification Using GRU
-Published in Springer, 2018
+### An Imperative Diagnostic Framework for PPG Signal Classification Using GRU
+Published in Springer, 2021
 
 This paper focuses on classifying PPG signals using GRU networks.
 
@@ -38,8 +38,8 @@ This paper focuses on classifying PPG signals using GRU networks.
 
 ---
 
-### Predicting CHD Using Deep Learning
-Published in IEEE, 2017
+### An Imperative Diagnostic Model for Predicting CHD using Deep Learning
+Published in IEEE, 2020
 
 This paper explores using deep learning models to predict coronary heart disease.
 
@@ -47,8 +47,8 @@ This paper explores using deep learning models to predict coronary heart disease
 
 ---
 
-### Attention Block Embedded in Standard CNN for Image Classification
-Published in IEEE, 2016
+### A Simple Attention Block Embedded in Standard CNN for Image Classification
+Published in IEEE, 2022
 
 This paper discusses embedding attention blocks into standard CNNs for improved image classification.
 
