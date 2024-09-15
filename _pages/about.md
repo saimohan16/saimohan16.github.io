@@ -3,8 +3,6 @@ title: ""
 permalink: /
 layout: single
 ---
-
-
 **Greetings, newcomer (or returning visitor)!** Welcome to my website. My name is Sai Mohan Gajapaka, and I am a Master’s student in Data Science at Michigan State University (MSU). I specialize in applying foundation models and advanced segmentation techniques to real-world drone imagery, focusing on achieving high accuracy with limited data. Currently, I am working under the guidance of  [Dr.Surya S.C Congress](https://engineering.msu.edu/faculty/Surya-SC-Congress) on focused research to monitor the structural health of infrastructures over time.
 
 Feel free to explore my [publications](publications) and [Resume](cv). Below is a brief explanation of my journey as a researcher in both academic and industry settings
