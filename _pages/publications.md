@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">I have a total of 40+ citations. You can also find my articles on <a href="{{https://scholar.google.com/citations?user=K8OFSxwAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=K8OFSxwAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 ## Publications
